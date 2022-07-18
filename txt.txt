@@ -1,3 +1,4 @@
 ver 1 brach master
 1
 YANDEX METRIKA
+GOOGLE ANALYTICS
